@@ -1,3 +1,31 @@
+# \[Simple React Blog project with Apollo GraphQl and Material UI\]
+
+\[Complete\]
+
+## Technologies used
+
+- [React](https://reactjs.org/) single page application
+- Routing done using [React Router](https://reacttraining.com/react-router/web/guides/philosophy)
+- Fetching data via [Apollo GraphQl](https://www.apollographql.com/)
+- CSS framework [Material UI](https://mui.com/)
+
+## Setup
+
+1. Clone the repository and install the dependencies
+```bash
+npm install
+```
+2. Start the frontend application locally
+```bash
+npm start
+```
+
+## Available commands
+
+* `npm start`: Start the app locally in your development environment, by default it will be in http://localhost:3000.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
